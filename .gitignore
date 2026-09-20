@@ -1,0 +1,11 @@
+.vs/
+[Bb]in/
+[Oo]bj/
+x64/
+x86/
+Debug/
+Release/
+*.user
+*.suo
+*.pdb
+*.ilk
